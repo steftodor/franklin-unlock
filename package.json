@@ -1,0 +1,36 @@
+{
+  "name": "create-react-app",
+  "homepage": ".",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "copy-to-clipboard": "^3.3.1",
+    "formik": "^2.2.9",
+    "js-sha1": "^0.6.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "yup": "^0.32.11"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
